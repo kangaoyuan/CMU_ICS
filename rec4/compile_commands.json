@@ -1,0 +1,60 @@
+[
+ {
+  "directory": "/home/gaoyuankan/CSAPP_Labs/rec4",
+  "arguments": [
+   "gcc",
+   "--std=c99",
+   "-g",
+   "-O3",
+   "-static",
+   "act1.c",
+   "-o",
+   "act1"
+  ],
+  "file": "act1.c"
+ },
+ {
+  "directory": "/home/gaoyuankan/CSAPP_Labs/rec4",
+  "arguments": [
+   "gcc",
+   "--std=c99",
+   "-g",
+   "-O3",
+   "-static",
+   "act2.c",
+   "act2.s",
+   "-o",
+   "act2"
+  ],
+  "file": "act2.s"
+ },
+ {
+  "directory": "/home/gaoyuankan/CSAPP_Labs/rec4",
+  "arguments": [
+   "gcc",
+   "--std=c99",
+   "-g",
+   "-O3",
+   "-static",
+   "act3.c",
+   "act3.s",
+   "-o",
+   "act3"
+  ],
+  "file": "act3.s"
+ },
+ {
+  "directory": "/home/gaoyuankan/CSAPP_Labs/rec4",
+  "arguments": [
+   "gcc",
+   "--std=c99",
+   "-g",
+   "-O3",
+   "-static",
+   "act4.c",
+   "-o",
+   "act4"
+  ],
+  "file": "act4.c"
+ }
+]

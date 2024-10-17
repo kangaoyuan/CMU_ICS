@@ -1,0 +1,14 @@
+[
+ {
+  "directory": "/home/gaoyuankan/CSAPP_Labs/rec6",
+  "arguments": [
+   "gcc",
+   "-Wall",
+   "-Werror",
+   "getopt_example.c",
+   "-o",
+   "getopt_example"
+  ],
+  "file": "getopt_example.c"
+ }
+]

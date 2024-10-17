@@ -1,0 +1,114 @@
+[
+ {
+  "directory": "/home/gaoyuankan/CSAPP_Labs/malloclab-handout",
+  "arguments": [
+   "gcc",
+   "-ggdb",
+   "-Wall",
+   "-O2",
+   "-m32",
+   "-fsanitize=address",
+   "-c",
+   "-o",
+   "mdriver.o",
+   "mdriver.c"
+  ],
+  "file": "mdriver.c"
+ },
+ {
+  "directory": "/home/gaoyuankan/CSAPP_Labs/malloclab-handout",
+  "arguments": [
+   "gcc",
+   "-ggdb",
+   "-Wall",
+   "-O2",
+   "-m32",
+   "-fsanitize=address",
+   "-c",
+   "-o",
+   "mm.o",
+   "mm.c"
+  ],
+  "file": "mm.c"
+ },
+ {
+  "directory": "/home/gaoyuankan/CSAPP_Labs/malloclab-handout",
+  "arguments": [
+   "gcc",
+   "-ggdb",
+   "-Wall",
+   "-O2",
+   "-m32",
+   "-fsanitize=address",
+   "-c",
+   "-o",
+   "memlib.o",
+   "memlib.c"
+  ],
+  "file": "memlib.c"
+ },
+ {
+  "directory": "/home/gaoyuankan/CSAPP_Labs/malloclab-handout",
+  "arguments": [
+   "gcc",
+   "-ggdb",
+   "-Wall",
+   "-O2",
+   "-m32",
+   "-fsanitize=address",
+   "-c",
+   "-o",
+   "fsecs.o",
+   "fsecs.c"
+  ],
+  "file": "fsecs.c"
+ },
+ {
+  "directory": "/home/gaoyuankan/CSAPP_Labs/malloclab-handout",
+  "arguments": [
+   "gcc",
+   "-ggdb",
+   "-Wall",
+   "-O2",
+   "-m32",
+   "-fsanitize=address",
+   "-c",
+   "-o",
+   "fcyc.o",
+   "fcyc.c"
+  ],
+  "file": "fcyc.c"
+ },
+ {
+  "directory": "/home/gaoyuankan/CSAPP_Labs/malloclab-handout",
+  "arguments": [
+   "gcc",
+   "-ggdb",
+   "-Wall",
+   "-O2",
+   "-m32",
+   "-fsanitize=address",
+   "-c",
+   "-o",
+   "clock.o",
+   "clock.c"
+  ],
+  "file": "clock.c"
+ },
+ {
+  "directory": "/home/gaoyuankan/CSAPP_Labs/malloclab-handout",
+  "arguments": [
+   "gcc",
+   "-ggdb",
+   "-Wall",
+   "-O2",
+   "-m32",
+   "-fsanitize=address",
+   "-c",
+   "-o",
+   "ftimer.o",
+   "ftimer.c"
+  ],
+  "file": "ftimer.c"
+ }
+]

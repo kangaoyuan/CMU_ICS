@@ -1,0 +1,198 @@
+[
+ {
+  "directory": "/home/gaoyuankan/CSAPP_Labs/cbootcamp",
+  "arguments": [
+   "gcc",
+   "-g",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "-std=gnu99",
+   "-o",
+   "./extras/ref_queue_test",
+   "./extras/ref-queue.c",
+   "./extras/main.c"
+  ],
+  "file": "./extras/main.c"
+ },
+ {
+  "directory": "/home/gaoyuankan/CSAPP_Labs/cbootcamp",
+  "arguments": [
+   "gcc",
+   "-g",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "-std=gnu99",
+   "-o",
+   "./extras/passing_args",
+   "./extras/passing_args.c"
+  ],
+  "file": "./extras/passing_args.c"
+ },
+ {
+  "directory": "/home/gaoyuankan/CSAPP_Labs/cbootcamp",
+  "arguments": [
+   "gcc",
+   "-g",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "-std=gnu99",
+   "-o",
+   "pointer_arith",
+   "pointer_arith.c"
+  ],
+  "file": "pointer_arith.c"
+ },
+ {
+  "directory": "/home/gaoyuankan/CSAPP_Labs/cbootcamp",
+  "arguments": [
+   "gcc",
+   "-g",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "-std=gnu99",
+   "-o",
+   "mem_mgmt",
+   "mem_mgmt.c"
+  ],
+  "file": "mem_mgmt.c"
+ },
+ {
+  "directory": "/home/gaoyuankan/CSAPP_Labs/cbootcamp",
+  "arguments": [
+   "gcc",
+   "-o",
+   "structs",
+   "structs.c"
+  ],
+  "file": "structs.c"
+ },
+ {
+  "directory": "/home/gaoyuankan/CSAPP_Labs/cbootcamp",
+  "arguments": [
+   "gcc",
+   "-o",
+   "./extras/macros",
+   "./extras/macros.c"
+  ],
+  "file": "./extras/macros.c"
+ },
+ {
+  "directory": "/home/gaoyuankan/CSAPP_Labs/cbootcamp",
+  "arguments": [
+   "gcc",
+   "-o",
+   "./extras/typedefs",
+   "./extras/typedefs.c"
+  ],
+  "file": "./extras/typedefs.c"
+ },
+ {
+  "directory": "/home/gaoyuankan/CSAPP_Labs/cbootcamp",
+  "arguments": [
+   "gcc",
+   "-g",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "-std=gnu99",
+   "-o",
+   "./extras/casting",
+   "./extras/casting.c"
+  ],
+  "file": "./extras/casting.c"
+ },
+ {
+  "directory": "/home/gaoyuankan/CSAPP_Labs/cbootcamp",
+  "arguments": [
+   "gcc",
+   "-g",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "-std=gnu99",
+   "-o",
+   "atoi",
+   "atoi.c"
+  ],
+  "file": "atoi.c"
+ },
+ {
+  "directory": "/home/gaoyuankan/CSAPP_Labs/cbootcamp",
+  "arguments": [
+   "gcc",
+   "-g",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "-std=gnu99",
+   "-o",
+   "files",
+   "files.c"
+  ],
+  "file": "files.c"
+ },
+ {
+  "directory": "/home/gaoyuankan/CSAPP_Labs/cbootcamp",
+  "arguments": [
+   "gcc",
+   "-g",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "-std=gnu99",
+   "-o",
+   "getopt",
+   "getopt.c"
+  ],
+  "file": "getopt.c"
+ },
+ {
+  "directory": "/home/gaoyuankan/CSAPP_Labs/cbootcamp",
+  "arguments": [
+   "gcc",
+   "-g",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "-std=gnu99",
+   "-o",
+   "strcat",
+   "strcat.c"
+  ],
+  "file": "strcat.c"
+ },
+ {
+  "directory": "/home/gaoyuankan/CSAPP_Labs/cbootcamp",
+  "arguments": [
+   "gcc",
+   "-g",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "-std=gnu99",
+   "-o",
+   "strlen",
+   "strlen.c"
+  ],
+  "file": "strlen.c"
+ },
+ {
+  "directory": "/home/gaoyuankan/CSAPP_Labs/cbootcamp",
+  "arguments": [
+   "gcc",
+   "-g",
+   "-Wall",
+   "-Wextra",
+   "-Werror",
+   "-std=gnu99",
+   "-o",
+   "strcpy",
+   "strcpy.c"
+  ],
+  "file": "strcpy.c"
+ }
+]

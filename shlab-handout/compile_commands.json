@@ -1,0 +1,67 @@
+[
+ {
+  "directory": "/home/gaoyuankan/CSAPP_Labs/shlab-handout",
+  "arguments": [
+   "gcc",
+   "-Wall",
+   "-O2",
+   "-ggdb",
+   "tsh.c",
+   "-o",
+   "tsh"
+  ],
+  "file": "tsh.c"
+ },
+ {
+  "directory": "/home/gaoyuankan/CSAPP_Labs/shlab-handout",
+  "arguments": [
+   "gcc",
+   "-Wall",
+   "-O2",
+   "-ggdb",
+   "myspin.c",
+   "-o",
+   "myspin"
+  ],
+  "file": "myspin.c"
+ },
+ {
+  "directory": "/home/gaoyuankan/CSAPP_Labs/shlab-handout",
+  "arguments": [
+   "gcc",
+   "-Wall",
+   "-O2",
+   "-ggdb",
+   "mysplit.c",
+   "-o",
+   "mysplit"
+  ],
+  "file": "mysplit.c"
+ },
+ {
+  "directory": "/home/gaoyuankan/CSAPP_Labs/shlab-handout",
+  "arguments": [
+   "gcc",
+   "-Wall",
+   "-O2",
+   "-ggdb",
+   "mystop.c",
+   "-o",
+   "mystop"
+  ],
+  "file": "mystop.c"
+ },
+ {
+  "directory": "/home/gaoyuankan/CSAPP_Labs/shlab-handout",
+  "arguments": [
+   "gcc",
+   "-Wall",
+   "-O2",
+   "-ggdb",
+   "myint.c",
+   "-o",
+   "myint"
+  ],
+  "file": "myint.c"
+ }
+]

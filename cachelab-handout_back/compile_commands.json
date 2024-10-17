@@ -1,0 +1,35 @@
+[
+ {
+  "directory": "/home/gaoyuankan/CSAPP_Labs/cachelab-handout",
+  "arguments": [
+   "gcc",
+   "-g",
+   "-Wall",
+   "-Werror",
+   "-std=c99",
+   "-m64",
+   "-O0",
+   "-o",
+   "tracegen",
+   "tracegen.c",
+   "trans.o",
+   "cachelab.c"
+  ],
+  "file": "cachelab.c"
+ },
+ {
+  "directory": "/home/gaoyuankan/CSAPP_Labs/cachelab-handout",
+  "arguments": [
+   "gcc",
+   "-g",
+   "-Wall",
+   "-Werror",
+   "-std=c99",
+   "-m64",
+   "-O0",
+   "-c",
+   "trans.c"
+  ],
+  "file": "trans.c"
+ }
+]

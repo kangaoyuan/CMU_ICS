@@ -1,0 +1,41 @@
+[
+ {
+  "directory": "/home/gaoyuankan/CSAPP_Labs/proxylab-handout",
+  "arguments": [
+   "gcc",
+   "-g",
+   "-Wall",
+   "-c",
+   "proxy.c",
+   "-o",
+   "proxy.o"
+  ],
+  "file": "proxy.c"
+ },
+ {
+  "directory": "/home/gaoyuankan/CSAPP_Labs/proxylab-handout",
+  "arguments": [
+   "gcc",
+   "-g",
+   "-Wall",
+   "-c",
+   "csapp.c",
+   "-o",
+   "csapp.o"
+  ],
+  "file": "csapp.c"
+ },
+ {
+  "directory": "/home/gaoyuankan/CSAPP_Labs/proxylab-handout",
+  "arguments": [
+   "gcc",
+   "-g",
+   "-Wall",
+   "-c",
+   "cache.c",
+   "-o",
+   "cache.o"
+  ],
+  "file": "cache.c"
+ }
+]
